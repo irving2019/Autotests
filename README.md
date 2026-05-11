@@ -20,7 +20,7 @@ dotnet test IntegrationTestsTemplate
 dotnet test Autotests.sln
 ```
 
-####👤 Автор
+👤 Автор
 
 **[Voldemar Pilipenko](https://github.com/irving2019)** —  автоматизация тестирования.  
 
